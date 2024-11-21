@@ -36,7 +36,7 @@ We look for industries where outdated approaches create massive inefficiencies. 
 
 ---
 
-### Follow Our Progress: [LinkedIn](url) | [Twitter](url)
+### Follow Our Progress: [LinkedIn](https://www.linkedin.com/company/chizy-investment-group) | [Twitter](https://x.com/ChizyIG)
 ---
 
 <br>
