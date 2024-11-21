@@ -1,6 +1,10 @@
 <br>
 
-<img src="./img/cig-logo.png" alt="cig-logo" width="250"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/white-cig-logo.png">
+  <source media="(prefers-color-scheme: light)" srcset="./img/black-cig-logo.png">
+  <img alt="cig-logo" src="./img/black-cig-logo.png" width="250">
+</picture>
 
 
 ## What We Do
